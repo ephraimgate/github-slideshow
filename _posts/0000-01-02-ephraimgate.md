@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+<b> This is how we do it!!!  <i><b> making changes
 Use the left arrow to go back!
